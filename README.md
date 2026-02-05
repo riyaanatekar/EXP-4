@@ -30,6 +30,7 @@ Sets are useful when you need to store unique data, perform membership testing, 
 
 ALGORITHM
 ✅ PROGRAMS WITH ALGORITHMS
+
 ✅ Program 1: Unique Event Participants
 🎯 Aim
 To remove duplicate student registrations using sets.
@@ -42,6 +43,7 @@ Stop
 ✅ Program 2: Common Elective Subjects
 🎯 Aim
 To find the subjects chosen commonly by all students using intersection.
+
 Algorithm
 Start
 Create three sets of subjects for student1, student2, student3

@@ -29,10 +29,10 @@ Example Uses:
 Sets are useful when you need to store unique data, perform membership testing, or compare datasets mathematically.
 
 ALGORITHM
-✅ PROGRAMS WITH ALGORITHMS
+ PROGRAMS WITH ALGORITHMS
 
-✅ Program 1: Unique Event Participants
-🎯 Aim
+ Program 1: Unique Event Participants
+ Aim
 To remove duplicate student registrations using sets.
 Algorithm
 Start
@@ -40,8 +40,8 @@ Create a list of participant names with duplicates
 Convert the list into a set
 Print the unique participant names
 Stop
-✅ Program 2: Common Elective Subjects
-🎯 Aim
+Program 2: Common Elective Subjects
+ Aim
 To find the subjects chosen commonly by all students using intersection.
 
 Algorithm
@@ -51,8 +51,8 @@ Apply intersection operation
 Store result in common_subjects
 Print common subjects
 Stop
-✅ Program 3: Cricket and Football Club Students
-🎯 Aim
+ Program 3: Cricket and Football Club Students
+ Aim
 To find students in both clubs and only one club.
 Algorithm
 Start
@@ -63,8 +63,8 @@ Find students only in cricket using difference
 Find students only in football using difference
 Display results
 Stop
-✅ Program 4: Absent Students List
-🎯 Aim
+Program 4: Absent Students List
+ Aim
 To find absent students using difference operation.
 Algorithm
 Start
@@ -74,8 +74,8 @@ Subtract present from total set
 Store result in absent set
 Print absent students
 Stop
-✅ Program 5: Remove Invalid Course Codes
-🎯 Aim
+ Program 5: Remove Invalid Course Codes
+ Aim
 To remove discontinued course codes from a set using remove/discard.
 Algorithm
 Start
